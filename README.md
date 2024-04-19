@@ -9,3 +9,6 @@
 ## has sections
 ## DEMO .txt
 ![](Demo.gif)
+
+## DEMO .json
+![](Demo2.gif)
